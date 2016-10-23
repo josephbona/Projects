@@ -1,0 +1,26 @@
+{
+  "name": "projects-js",
+  "version": "1.0.0",
+  "description": "My Solutions to /karan's _Mega Project List_\r ========",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha 'test/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephbona/Projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephbona/Projects/issues"
+  },
+  "homepage": "https://github.com/josephbona/Projects#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
