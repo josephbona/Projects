@@ -1,43 +1,23 @@
-Mega Project List
+My Solutions to /karan's _Mega Project List_
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
-
-To get started, simply fork this repo.
-
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
-
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
-
-
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
-
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
-
-## Credits
-
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
-
-Problems are motivated by the ones shared at:
-
-* [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
-* [Rosetta Code](http://rosettacode.org/)
+My attempt at solving the [Mega Project List](https://github.com/karan/Projects) using javascript.
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/josephbona/Projects#numbers)
+- [Classic Algorithms](https://github.com/josephbona/Projects#classic-algorithms)
+- [Graph](https://github.com/josephbona/Projects#graph)
+- [Data Structures](https://github.com/josephbona/Projects#data-structures)
+- [Text](https://github.com/josephbona/Projects#text)
+- [Networking](https://github.com/josephbona/Projects#networking)
+- [Classes](https://github.com/josephbona/Projects#classes)
+- [Threading](https://github.com/josephbona/Projects#threading)
+- [Web](https://github.com/josephbona/Projects#web)
+- [Files](https://github.com/josephbona/Projects#files)
+- [Databases](https://github.com/josephbona/Projects#databases)
+- [Graphics and Multimedia](https://github.com/josephbona/Projects#graphics-and-multimedia)
+- [Security](https://github.com/josephbona/Projects#security)
 
 Numbers
 ---------
@@ -173,7 +153,7 @@ Classes
 **Airline / Hotel Reservation System** - Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
 
 **Company Manager** - Create an hierarchy of classes - abstract class Employee and subclasses HourlyEmployee, SalariedEmployee, Manager and Executive. Every one's pay is calculated differently, research a bit about it.
-After you've established an employee hierarchy, create a Company class that allows you to manage the employees. You should be able to hire, fire and raise employees. 
+After you've established an employee hierarchy, create a Company class that allows you to manage the employees. You should be able to hire, fire and raise employees.
 
 **Bank Account Manager** - Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program.
 
